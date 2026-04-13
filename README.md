@@ -11,6 +11,7 @@ Currently:
 
 - Version 1.20.1 _should_ be compatible with most versions **before**.
 - Version 1.20.2 _should_ be compatible with most versions **after**.
+  - Tested in 1.21.11 without any issues.
 
 Just ignore the incompatibility warning in the resource pack selection menu.
 
